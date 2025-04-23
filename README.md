@@ -2,6 +2,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/Juanja1306?label=Follow&style=social)
 ![Top Langs](https://img.shields.io/github/languages/top/Juanja1306/Deteccion-Ceramicas)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" alt="stats"/>
+</p>
+
+
+
+
 <!--
 **Juanja1306/Juanja1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
