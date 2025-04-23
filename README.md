@@ -3,7 +3,7 @@
 <details>
   <summary>📈 Github Stats</summary>
   
-  ![Juan1306 Github Stats](https://github-readme-stats.vercel.app/api?username=Juanja1306&theme=onedark&count_private=true&show_icons=true&locale=en)
+  ![Juan1306 Github Stats](https://github-readme-stats.vercel.app/api?username=Juanja1306&show_icons=true&theme=tokyonight)
 </details>
 
 <!--
