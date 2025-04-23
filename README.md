@@ -1,8 +1,10 @@
 ## Hi, I’m JJ. I’m passionate about Machine Learning and Deep Learning.
 
-[![Years Badge](https://badges.pufler.dev/years/service-Juanja1306)](https://github.com/service-Juanja1306)
-[![Updated Badge](https://badges.pufler.dev/updated/service-Juanja1306/service-paradis)](https://github.com/service-Juanja1306)
-
+<details>
+  <summary>📈 Github Stats</summary>
+  
+  ![Juan1306 Github Stats](https://github-readme-stats.vercel.app/api?username=Juanja1306&theme=onedark&count_private=true&show_icons=true&locale=en)
+</details>
 
 <!--
 ![GitHub followers](https://img.shields.io/github/followers/Juanja1306?label=Follow&style=social)
