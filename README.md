@@ -106,8 +106,7 @@
 
 
 ## Github Stats  
-  
-  ![Alexandre Paradis StackOverflow Stats]([https://github-readme-stackoverflow.vercel.app/?userID=2774496&theme=dark&layout=compact](https://github-readme-stats.vercel.app/api?username=Juanja1306&show_icons=true&count_private=true&hide_border=true))
+  ![Juanja1306](https://github-readme-stats.vercel.app/api?username=Juanja1306&theme=onedark&count_private=true&show_icons=true&locale=en)
 
 
 
