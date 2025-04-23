@@ -3,7 +3,7 @@
 ![Top Langs](https://img.shields.io/github/languages/top/Juanja1306/Deteccion-Ceramicas)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanja1306&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
 
 
