@@ -106,7 +106,7 @@
 
 
 ## Github Stats  
-  ![Juanja1306](https://github-readme-stats.vercel.app/api?username=Juanja1306&theme=onedark&count_private=true&show_icons=true&locale=en)
+  ![Juanja1306](https://github-readme-stats.vercel.app/api?username=Juanja1306&theme=tokyonight&count_private=true&show_icons=true&locale=en)
 
 
 
