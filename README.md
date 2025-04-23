@@ -104,7 +104,7 @@
 
 <br/>  
 
-<h2 align="center">Github Stats</h2>
+## Github Stats
 
 <p align="center">
   <img
