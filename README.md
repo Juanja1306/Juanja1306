@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Deteccion-Ceramicas](https://github.com/Juanja1306/Deteccion-Ceramicas)  
   
 
-- 🌱 I’m currently learning OpenCV  
+- 🌱 I’m currently learning OpenCV and FastAPI
   
 
 <br/>  
