@@ -7,7 +7,8 @@
 </p>
 
 
-
+## 🛠️ Herramientas & Tecnologías
+- **Lenguajes:** ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
 
 <!--
 **Juanja1306/Juanja1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
