@@ -104,9 +104,15 @@
 
 <br/>  
 
+<h2 align="center">Github Stats</h2>
 
-## Github Stats  
-  ![Juanja1306](https://github-readme-stats.vercel.app/api?username=Juanja1306&theme=tokyonight&count_private=true&show_icons=true&locale=en)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Juanja1306&theme=tokyonight&count_private=true&show_icons=true&locale=en"
+    alt="Juanja1306 GitHub Stats"
+  />
+</p>
+
 
 
 
