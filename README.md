@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I’m JJ. I’m passionate about Machine Learning and Deep Learning.
+
+[![Years Badge](https://badges.pufler.dev/years/service-Juanja1306)](https://github.com/service-Juanja1306)
+[![Updated Badge](https://badges.pufler.dev/updated/service-Juanja1306/service-paradis)](https://github.com/service-Juanja1306)
+
+
+<!--
 ![GitHub followers](https://img.shields.io/github/followers/Juanja1306?label=Follow&style=social)
 ![Top Langs](https://img.shields.io/github/languages/top/Juanja1306/Deteccion-Ceramicas)
 
@@ -9,6 +15,7 @@
 
 ## 🛠️ Herramientas & Tecnologías
 - **Lenguajes:** ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
+-->
 
 <!--
 **Juanja1306/Juanja1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
