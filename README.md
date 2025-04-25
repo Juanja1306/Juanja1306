@@ -109,6 +109,7 @@
     src="https://github-readme-stats.vercel.app/api?username=Juanja1306&theme=tokyonight&count_private=true&show_icons=true&locale=en"
     alt="Juanja1306 GitHub Stats"
   />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Juanja1306&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 
